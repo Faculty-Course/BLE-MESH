@@ -1,0 +1,56 @@
+﻿year,tier,title,authors,doi,source,reason
+2026,1,BLE Security Testing: Survey of Attacks and Evaluation of Tools and Frameworks,Hannah GreB; Jonas Schreiter; Michael Rademacher; Bjorn Kruger,10.1109/OJCOMS.2026.3691569,doaj,no open PDF link
+2025,1,Research on Highly Dynamic Node BLE Mesh Routing Strategy based on Limited Flooding,WU Xihang; HUANG Zhuo; LUO Senlin; WANG Fengxiang,,doaj,no open PDF link
+2024,1,Application of bluetooth mesh network in multi-device system management,Vo Nhu Thanh; Dang Phuoc Vinh; Nguyen Van Tho; Tu Quang Duc; Nguyen Le Minh,10.31130/ud-jst.2024.540E,doaj,no open PDF link
+2023,1,RESEMBLE: A Real-Time Stack for Synchronized Mesh Mobile Bluetooth Low Energy Networks,Luca Leonardi; Lucia Lo Bello; Gaetano Patti,10.3390/asi6010019,doaj,no open PDF link
+2023,1,Tamarin-based Analysis of Bluetooth Uncovers Two Practical Pairing Confusion Attacks (extended version),Claverie; Avoine; Delaune; Lopes Esteves,,hal,pdf link failed
+2022,1,Viability characterization of a proof-of-concept Bluetooth mesh smart building application,Leonardo Eras; Federico Domínguez; Caril Martinez,10.1177/15501329221097819,doaj,no open PDF link
+2021,1,IoT Security Mechanisms in the Example of BLE,Evgeny Kalinin; Danila Belyakov; Dmitry Bragin; Anton Konev,10.3390/computers10120162,doaj,no open PDF link
+2021,1,Measurement and Analysis of RSS Using Bluetooth Mesh Network for Localization Applications,Yuan Cao; Harsha Kandula; Xinrong Li,10.3390/network1030018,doaj,no open PDF link
+2020,1,A Bluetooth-Based Architecture for Contact Tracing in Healthcare Facilities,Piergiuseppe Di Marco; Pangun Park; Marco Pratesi; Fortunato Santucci,10.3390/jsan10010002,doaj,no open PDF link
+2020,1,Bluetooth Low Energy Mesh Networks: Survey of Communication and Security Protocols,Muhammad Rizwan Ghori; Tat-Chee Wan; Gian Chand Sodhy,10.3390/s20123590,doaj,pdf link failed
+2025,2,Bluetooth-Based Dynamic Nexus Mesh Communication Network for High-Density Urban Interaction Spaces,Yufei Hu; Ngai Cheong; Muya Yao; Qingwen Long; Yide Yu,10.3390/s25082495,doaj,pdf link failed
+2025,2,"Design, Implementation and Practical Evaluation of an Opportunistic Communications Protocol Based on Bluetooth Mesh and libp2p",Ángel Niebla-Montero; Iván Froiz-Míguez; Paula Fraga-Lamas; Tiago M. Fernández-Caramés,10.3390/s25041190,doaj,pdf link failed
+2025,2,Enhancing Wireless Sensor Networks with Bluetooth Low-Energy Mesh and Ant Colony Optimization Algorithm,Hussein S. Mohammed; Hayam K. Mustafa; Omar A. Abdulkareem,10.3390/a18090571,doaj,no open PDF link
+2024,2,A Rapid Flooding Approach Based on Adaptive Delay and Low-Power Sleep for BLE Mesh Networks,Li Wang; Junxiang Li; Mingxia Li,10.1109/ACCESS.2024.3398348,doaj,no open PDF link
+2024,2,Constrained Flooding Based on Time Series Prediction and Lightweight GBN in BLE Mesh,Junxiang Li; Mingxia Li; Li Wang,10.3390/s24144752,doaj,pdf link failed
+2024,2,Enhancing Reliability and Stability of BLE Mesh Networks: A Multipath Optimized AODV Approach,Muhammad Rizwan Ghori; Tat-Chee Wan; Gian Chand Sodhy; Mohammad Aljaidi; Amna Rizwan; Ali Safaa Sadiq; Omprakash Kaiwartya,10.3390/s24185901,doaj,pdf link failed
+2023,2,"Bluetooth Low Energy Mesh: Applications, Considerations and Current State-of-the-Art",Iynkaran Natgunanathan; Niroshinie Fernando; Seng W. Loke; Charitha Weerasuriya,10.3390/s23041826,doaj,pdf link failed
+2023,2,Experimental Evaluation and Performance Improvement of Bluetooth Mesh Network With Broadcast Storm,Bing Lin; Hang Su,10.1109/ACCESS.2023.3339795,doaj,no open PDF link
+2022,2,PCO-Based BLE Mesh Accelerator,Ivan Bukreyev; Hazal Yüksel; Ken Ho; Alyssa Apsel,10.3390/s22145324,doaj,pdf link failed
+2021,2,QoS Enabled Heterogeneous BLE Mesh Networks,Subho Shankar Basu; Mathias Baert; Jeroen Hoebeke,10.3390/jsan10020024,doaj,no open PDF link
+2021,2,Speeding Up Bluetooth Mesh,David Perez-Diaz-De-Cerio; Angela Hernandez-Solana; Mario Garcia-Lozano; Antonio Valdovinos Bardaji; Jose-Luis Valenzuela,10.1109/ACCESS.2021.3093102,doaj,no open PDF link
+2020,2,An Energy Balanced Flooding Algorithm for a BLE Mesh Network,Adriano Souza Brandao; Matheus Cordeiro Lima; Claudia Jacy Barenco Abbas; Luis Javier Garcia Villalba,10.1109/ACCESS.2020.2993819,doaj,no open PDF link
+2020,2,"Bluetooth Mesh Analysis, Issues, and Challenges",angela Hernandez-Solana; David Perez-Diaz-De-Cerio; Mario Garcia-Lozano; Antonio Valdovinos Bardaji; Jose-Luis Valenzuela,10.1109/ACCESS.2020.2980795,doaj,no open PDF link
+2020,2,Bluetooth-based device-to-device routing protocol for self-organized mobile-phone mesh network,Aihua Fan; Zhiqiang Tang; Weiwei Wu; Yu Tang; Di Lin,10.1186/s13638-020-01768-4,doaj,no open PDF link
+2020,2,Experimental Evaluation of 6BLEMesh: IPv6-Based BLE Mesh Networks,Seyed Mahdi Darroudi; Carles Gomez,10.3390/s20164623,doaj,pdf link failed
+2020,2,Neighbor Discovery for IPv6 over BLE Mesh Networks,Bingqing Luo; Zhixin Sun; Yu Pang; Awais Ahmad; Jinzhao Lin; Jun Wu; Hui Zhang,10.3390/app10051844,doaj,pdf link failed
+2019,2,Bluetooth Mesh Energy Consumption: A Model,Seyed  Mahdi Darroudi; Raül Caldera-Sànchez; Carles Gomez,10.3390/s19051238,doaj,pdf link failed
+2018,2,A Reconfigurable Mesh-Ring Topology for Bluetooth Sensor Networks,Ben-Yi Wang; Chih-Min Yu; Yao-Huang Kao,10.3390/en11051163,doaj,pdf link failed
+2018,2,BLE Mesh: A Practical Mesh Networking Development Framework for Public Safety Communications,Bo Zhang; Yufeng Wang; Li Wei; Qun Jin; Athanasios V. Vasilakos,10.26599/TST.2018.9010082,doaj,no open PDF link
+2018,2,Multi-Hop Real-Time Communications Over Bluetooth Low Energy Industrial Wireless Mesh Networks,Luca Leonardi; Gaetano Patti; Lucia Lo Bello,10.1109/ACCESS.2018.2834479,doaj,no open PDF link
+2018,2,The Bluetooth Mesh Standard: An Overview and Experimental Evaluation,Mathias Baert; Jen Rossey; Adnan Shahid; Jeroen Hoebeke,10.3390/s18082409,doaj,pdf link failed
+2017,2,Bluetooth Low Energy Mesh Networks: A Survey.,"Darroudi SM, Gomez C.",10.3390/s17071467,europepmc,pdf link failed
+2026,3,Cross-Protocol Domain Gap in Internet of Things Intrusion and Anomaly Detection: An Empirical Internet Protocol-to-Bluetooth Low Energy Study of Domain-Adversarial Training,Hyejin Jin,10.3390/s26041184,doaj,pdf link failed
+2026,3,On the Performance and Security of Bluetooth Channel Sounding,Yeongjae Seo; Kyungho Joo,10.1109/ACCESS.2026.3711332,doaj,no open PDF link
+2025,3,"The Newer, the More Secure? Standards-Compliant Bluetooth Low Energy Man-in-the-Middle Attacks on Fitness Trackers",Hannah Greß; Björn Krüger; Elmar Tischhauser,10.3390/s25061815,doaj,pdf link failed
+2022,3,Access Control and Security System Via Bluetooth Application on Android Smartphone,Husna Amiliansyah; Mia Galina; Joni Welman,10.31961/eltikom.v6i1.475,doaj,no open PDF link
+2022,3,Address Privacy of Bluetooth Low Energy,Dazhi Sun; Yangguang Tian,10.3390/math10224346,doaj,no open PDF link
+2022,3,On the Security of Bluetooth Low Energy in Two Consumer Wearable Heart Rate Monitors/Sensing Devices,Yeṣem Kurt Peker; Gabriel Bello; Alfredo J. Perez,10.3390/s22030988,doaj,pdf link failed
+2022,3,Secure Bluetooth Communication in Smart Healthcare Systems: A Novel Community Dataset and Intrusion Detection System,Mohammed Zubair; Ali Ghubaish; Devrim Unal; Abdulla Al-Ali; Thomas Reimann; Guillaume Alinier; Mohammad Hammoudeh; Junaid Qadir,10.3390/s22218280,doaj,pdf link failed
+2022,3,Security and Privacy Threats for Bluetooth Low Energy in IoT and Wearable Devices: A Comprehensive Survey,Arup Barua; Md Abdullah Al Alamin; Md. Shohrab Hossain; Ekram Hossain,10.1109/OJCOMS.2022.3149732,doaj,no open PDF link
+2022,3,Valet attack on privacy: a cybersecurity threat in automotive Bluetooth infotainment systems,Vishnu Renganathan; Ekim Yurtsever; Qadeer Ahmed; Aylin Yener,10.1186/s42400-022-00132-x,doaj,no open PDF link
+2021,3,A Dynamic Light-Weight Symmetric Encryption Algorithm for Secure Data Transmission via BLE Beacons,Sam Banani; Surapa Thiemjarus; Kitti Wongthavarawat; Nattapong Ounanong,10.3390/jsan11010002,doaj,no open PDF link
+2021,3,Using Privacy Respecting Sound Analysis to Improve Bluetooth Based Proximity Detection for COVID-19 Exposure Tracing and Social Distancing,Gernot Bahle; Vitor Fortes Rey; Sizhen Bian; Hymalai Bello; Paul Lukowicz,10.3390/s21165604,doaj,pdf link failed
+2020,3,BlueLock a tool to prevent Bluetooth attacks,Gerardo Alberto Castang Montiel; Fernando Betancourt Duque; Luz Adriana Peña Salazar,10.14483/22484728.16496,doaj,no open PDF link
+2020,3,UTILIZATION OF BLUETOOTH CONNECTIONS FOR ARDUINO BASED DOOR LOCK SECURITY TOOLS,Hafdiarsya Saiyar,10.34288/jri.v2i4.156,doaj,no open PDF link
+2019,3,A Comprehensive Review of RFID and Bluetooth Security: Practical Analysis,Santiago Figueroa Lorenzo; Javier Añorga Benito; Pablo García Cardarelli; Jon Alberdi Garaia; Saioa Arrizabalaga Juaristi,10.3390/technologies7010015,doaj,pdf link failed
+2019,3,On Secure Simple Pairing in Bluetooth Standard v5.0-Part I: Authenticated Link Key Security and Its Home Automation and Entertainment Applications,Da-Zhi Sun; Li Sun,10.3390/s19051158,doaj,pdf link failed
+2019,3,On Secure Simple Pairing in Bluetooth Standard v5.0-Part II: Privacy Analysis and Enhancement for Low Energy,Da-Zhi Sun; Li Sun; Ying Yang,10.3390/s19153259,doaj,pdf link failed
+2018,3,A User-Friendly Privacy Framework for Users to Achieve Consents With Nearby BLE Devices,Shi-Cho Cha; Ming-Shiung Chuang; Kuo-Hui Yeh; Zi-Jia Huang; Chunhua Su,10.1109/ACCESS.2018.2820716,doaj,no open PDF link
+2018,3,Neutralizing BLE Beacon-Based Electronic Attendance System Using Signal Imitation Attack,Moonbeom Kim; Jongho Lee; Jeongyeup Paek,10.1109/ACCESS.2018.2884488,doaj,no open PDF link
+2018,3,Security Vulnerabilities in Bluetooth Technology as Used in IoT,Angela  M. Lonzetta; Peter Cope; Joseph Campbell; Bassam  J. Mohd; Thaier Hayajneh,10.3390/jsan7030028,doaj,pdf link failed
+2017,3,Toward a Robust Security Paradigm for Bluetooth Low Energy-Based Smart Objects in the Internet-of-Things,Shi-Cho Cha; Kuo-Hui Yeh; Jyun-Fu Chen,10.3390/s17102348,doaj,pdf link failed
+2015,3,Provisioning Vehicular Services and Communications Based on a Bluetooth Sensor Network Deployment,David Perez-Diaz de Cerio; José Luis Valenzuela,10.3390/s150612765,doaj,pdf link failed
+2012,3,Bluetooth Based Chaos Synchronization Using Particle Swarm Optimization and Its Applications to Image Encryption,Tzu-Hsiang Hung; Her-Terng Yau; Chia-Chun Hsieh,10.3390/s120607468,doaj,no open PDF link
+2011,3,Research and design of the protection scheme on bluetooth location privacy,YU Bin; ZHANG Shun,,doaj,no open PDF link
